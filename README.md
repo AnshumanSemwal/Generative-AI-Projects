@@ -7,3 +7,6 @@ Project 1:
   Multilingual Invoice extractor
   Interprets image of an invoice and answer question based on it
   
+Project 2:
+  Chat with Multiple Pdf's
+  You can upload any number of pdfs which are then vector embedded and then retrieve information based on your query
