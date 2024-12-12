@@ -10,3 +10,7 @@ Project 1:
 Project 2:
   Chat with Multiple Pdf's
   You can upload any number of pdfs which are then vector embedded and then retrieve information based on your query
+
+Project 3:
+  Q&A bot with multiple PDF's.
+  Groq used which has a very fast interference time 
