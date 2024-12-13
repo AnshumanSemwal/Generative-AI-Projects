@@ -14,3 +14,7 @@ Project 2:
 Project 3:
   Q&A bot with multiple PDF's.
   Groq used which has a very fast interference time 
+
+Project 4:
+Text to Sql and Query
+Using LLM, we query which is then converted to sql command and response is retrieved from the database.
